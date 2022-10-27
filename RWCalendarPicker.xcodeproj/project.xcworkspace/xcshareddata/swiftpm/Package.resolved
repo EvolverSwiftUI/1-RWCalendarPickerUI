@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "calendarcontrol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/EvolverSwiftUI/CalendarControl.git",
+      "state" : {
+        "revision" : "5683d31ea0943393b7b1557e8c5f41beff560c71",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
